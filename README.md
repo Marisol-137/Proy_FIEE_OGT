@@ -20,7 +20,7 @@ V1.0 que consiste en el registro de usuarios.
 
 Acceso 2
 <p align="center">
-  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-Espaciales-SM-C-plusplus/blob/main/explosi%C3%B3n%20de%20la%20estrella%20cedafi.jpeg">
+  <img width="auto" height="auto" src="[https://github.com/Marisol-137/Naves-Espaciales-SM-C-plusplus/blob/main/explosi%C3%B3n%20de%20la%20estrella%20cedafi.jpeg](https://github.com/Marisol-137/Proy_FIEE_OGT/blob/main/acceso2.jpeg)">
 </p>
 Acceso 3
 <p align="center">
