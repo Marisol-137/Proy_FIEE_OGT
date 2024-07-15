@@ -13,6 +13,8 @@ V1.0 que consiste en el registro de usuarios.
 4. Luego de la aprobación el alumano ya sere titulado en la base de datos.
 
 ## Interfaz
+Sistema donde se pondrán los datos del alumno y se verificaron si estos cumplen con los requisitos de titulacion para ser ingresado en la base de datos como titulado. El primer avance es el acceso del usuario al sistema.
+
 ### Acceso 1
 <p align="center">
   <img width="auto" height="auto" src="https://github.com/Marisol-137/Proy_FIEE_OGT/blob/main/acceso1.jpeg">
